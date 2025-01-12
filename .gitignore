@@ -53,3 +53,6 @@ cameras.csv
 /scripts/download_replay/third/download/*
 output/*.txt
 outputs/*
+
+#Ignore macos
+.DS_Store
