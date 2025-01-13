@@ -56,3 +56,5 @@ outputs/*
 
 #Ignore macos
 .DS_Store
+
+.idea
